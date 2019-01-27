@@ -13,7 +13,7 @@ nav{
 }
 
 nav #title{
-    padding: 15px 10px;
+    padding: 0 20px;
     font-size: 2em;
     font-weight: bold;
 }
@@ -21,7 +21,6 @@ nav #title{
 main{
     width: 100%;
     font-size: 18px;
-    font-family: 'monospace';
 }
 
 .tag{
@@ -55,7 +54,7 @@ img{
 .pTitle{
     text-transform: uppercase; 
     font-weight: bold;
-    font-size: 18px;
+    font-size: 22px;
 }
 
 form{
