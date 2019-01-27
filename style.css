@@ -46,6 +46,9 @@ img{
 
 .container li{
     list-style: none;
+}
+
+.container li::first-letter{
     text-transform: uppercase;
 }
 
