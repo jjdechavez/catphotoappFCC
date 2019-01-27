@@ -44,6 +44,11 @@ img{
     line-height: 2em;
 }
 
+.container li{
+    list-style: none;
+    text-transform: uppercase;
+}
+
 .pTitle{
     text-transform: uppercase; 
     font-weight: bold;
