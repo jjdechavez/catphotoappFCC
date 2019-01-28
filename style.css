@@ -75,5 +75,5 @@ button{
 button:hover{
     background-color: rgb(170, 162, 162);
     color: #fff;
-    animation-delay: 0.5ms;
+    transition-delay: 2s;
 }
